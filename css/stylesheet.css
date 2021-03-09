@@ -1,0 +1,14 @@
+
+body { background-color:greenyellow ;}  
+
+img { padding:10px;
+      border: 1px solid black;    
+}
+
+.highlight {
+    color:blue;
+    background-color: goldenrod;
+    padding:10px;
+    margin:50px;
+
+}
